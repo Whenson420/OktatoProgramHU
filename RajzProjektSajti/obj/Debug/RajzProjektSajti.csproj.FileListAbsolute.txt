@@ -1,0 +1,27 @@
+F:\oop 3.i\RajzProjektSajti\bin\Debug\RajzProjektSajti.exe.config
+F:\oop 3.i\RajzProjektSajti\bin\Debug\RajzProjektSajti.exe
+F:\oop 3.i\RajzProjektSajti\bin\Debug\RajzProjektSajti.pdb
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.AssemblyReference.cache
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.SuggestedBindingRedirects.cache
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.Kezdőlap.resources
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.Properties.Resources.resources
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.Rajzolás.resources
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.GenerateResource.cache
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.CoreCompileInputs.cache
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.exe
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.pdb
+F:\oop 3.i\RajzProjektSajti\obj\Debug\RajzProjektSajti.Alakzatok.resources
+D:\RajzProjektSajti\RajzProjektSajti\bin\Debug\RajzProjektSajti.exe.config
+D:\RajzProjektSajti\RajzProjektSajti\bin\Debug\RajzProjektSajti.exe
+D:\RajzProjektSajti\RajzProjektSajti\bin\Debug\RajzProjektSajti.pdb
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.AssemblyReference.cache
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.SuggestedBindingRedirects.cache
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.Alakzatok.resources
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.Kezdőlap.resources
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.Properties.Resources.resources
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.Rajzolás.resources
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.GenerateResource.cache
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.csproj.CoreCompileInputs.cache
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.exe
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.pdb
+D:\RajzProjektSajti\RajzProjektSajti\obj\Debug\RajzProjektSajti.jatek.resources

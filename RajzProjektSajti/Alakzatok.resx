@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label2.Text" xml:space="preserve">
+    <value>A kör vagy körvonal a geometriában egy sík azon pontjainak halmaza (régies szóhasználattal mértani helye), amelyek a sík egy meghatározott pontjától (középpont) adott távolságra (sugár) vannak. Körlapnak, illetve körlemeznek nevezzük azon pontok halmazát, melyekre a távolság kisebb vagy egyenlő a sugárral.Az érintő olyan egyenes (ábrán: e), amelynek pontosan egy közös pontja van a körrel (É).
+
+A szelő (s) olyan egyenes, amely két pontban (M1 ill. M2) metszi a körvonalat.
+
+A húr olyan szakasz, mely a szelő s egyenes része, és végpontjai a körvonal pontjai (M1 ill. M2). Más szóval a húr nem más mint a szelő és a körlap metszete (halmazmetszet).
+
+A húr illetve a szelő a körlapot két körszeletre bontja (vágja, szeli).
+
+A sugár vagy rádiusz (r) a kör középpontját és a kör egy pontját összekötő szakasz, de ezek hosszát is sugárnak szokták nevezni, habár sugárhossz lenne a helyes.
+
+Az átmérő (d) olyan húr, amely tartalmazza a középpontot ( áthalad a középponton / belső pontja a középpont). E szakaszok hosszát is szokták egyszerűen átmérőnek nevezni. Az átmérő hossza kétszer akkora, mint a sugár hossza ( d=2r ).
+
+A körvonalat bármely két pontja két diszjunkt összefüggő részre (vonalra) osztja. Ezeket a részeket körívnek illetve egyszerűen ívnek (i) nevezzük
+
+A körcikk olyan síkidom, melyet két sugár és egy ív határol. Ennek speciális esete a félkör, mely egyben speciális szelet is.
+
+A körgyűrű két koncentrikus kör közé eső sáv.
+
+A kör beleírható sokszögének illetve húrsokszögnek nevezzük azt a szabályos sokszöget, melynek összes csúcsa a körívre illeszkedik, illetve minden oldala a kör húrja.
+
+A kör köréírható sokszögének illetve érintősokszögnek nevezzük azt a szabályos sokszöget, melynek az összes oldala érinti a körívet.
+
+A körívtetőpont magassága - Egy húr középpontjára állított merőleges hossza a közelebbi körvonalig. Fontos elem az építészetben a kupolák és boltívek méretezésénél, valamint az optikában a fókuszpont megállapításához. Latinul sagitta (íj). Függvényként versine néven ismeretes.</value>
+  </data>
+  <data name="label3.Text" xml:space="preserve">
+    <value>A négyzet egyenlő oldalú téglalap, vagyis olyan sokszög, melynek négy egyenlő oldala és négy egyenlő szöge, mégpedig derékszöge van. Szabályos négyszögek vannak a gömbi és a hiperbolikus geometriákban is, de a négyzet megjelölést nem használják síkidomra az euklideszi geometrián kívül.</value>
+  </data>
+  <data name="label5.Text" xml:space="preserve">
+    <value>
+A téglalap egy olyan négyszög, amelynek minden szöge derékszög. Két-két szemközti oldala egyenlő hosszúságú, ezért minden téglalap egyben paralelogramma is. A négyzet a téglalap egy speciális típusa, amelynek minden oldala egyenlő. A téglalap belső szögeinek összege 360°. Mivel a szemközti szögeinek összege 180°, ezért a téglalap egyúttal húrnégyszög is.
+1.Az oldalakat az ábécé kisbetűivel szokás elnevezni: a, b.
+2.Területe a két oldal szorzata:</value>
+  </data>
+  <data name="label7.Text" xml:space="preserve">
+    <value>A geometriában a rombusz olyan négyszög, melynek minden oldala egyenlő hosszú.A rombusz szemközti oldalai párhuzamosak és szemközti szögei egyenlőek, ezért a paralelogramma speciális esete, szomszédos oldalai egyenlő hosszúak, ezért a deltoid speciális esete is – így érintőnégyszög. A rombusz átlói egymásra merőlegesek és felezik egymást. A szemközti szögeket felezik az átlók.</value>
+  </data>
+  <data name="label9.Text" xml:space="preserve">
+    <value>Területén geometria a romboid ez paralelogramma (speciális típusú négyszög, amelynek oldalai párhuzamosan párhuzamosak) amelynek szomszédos oldalai egyenlőtlenek, és két szöge nagyobb, mint a másik kettő; vagyis rombusz, ez nem rombusz és nem téglalap.
+</value>
+  </data>
+  <data name="label17.Text" xml:space="preserve">
+    <value>A matematikában az ellipszis görbe azon pontok mértani helye egy síkon, ahol a pontok két rögzített ponttól mért távolságának összege a két pont távolságánál nagyobb állandó. A két pontot fókuszpontnak vagy gyújtópontnak hívják. Az ellipszis kúpszelet: ha egy kúpfelületet egy olyan síkkal metsszük, amely nem metszi a kúp alaplapját (és nem is párhuzamos azzal), a metszésvonal ellipszis lesz. Ennek rövid, elemi bizonyítását a Dandelin-gömbök adják.</value>
+  </data>
+  <data name="label19.Text" xml:space="preserve">
+    <value>Ezek olyan háromszögek tehát, melyeknek van két egyenlő hosszúságú oldala. Az egyenlő oldalakat szárnak nevezzük, innen kapta a nevét az egyenlő szárú háromszög. A harmadik oldalt, aminek a hossza nem egyezik meg a szárakkal, alapnak nevezzük. (Ha megegyezik, akkor az egy szabályos háromszög, ami az egyenlőszárúak között egy speciális háromszögfajta).</value>
+  </data>
+  <data name="label21.Text" xml:space="preserve">
+    <value>Egyenlő oldalú vagy szabályos háromszögnek nevezzük azt a háromszöget, melynek minden oldala egyenlő. Tulajdonságai: minden szöge egyenlő (60°). Tengelyesen szimmetrikus az oldalfelező merőlegesekre nézve.</value>
+  </data>
+  <data name="label23.Text" xml:space="preserve">
+    <value>A síkmértanban a derékszögű háromszög az a háromszög, amelynek az egyik szöge derékszög (mértéke π / 2 radián vagy 90 °). A derékszöggel szemközti oldalt átfogónak nevezik, és ez a legnagyobb. A másik két oldalt befogónak nevezzük.</value>
+  </data>
+</root>
